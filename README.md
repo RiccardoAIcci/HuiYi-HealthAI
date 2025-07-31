@@ -13,11 +13,13 @@ A medical Q&A assistant trained on the **MiniMind2 model**, designed to:
 - 🎓 **Learning milestone**: My first AI project combining NLP and healthcare  
 - 💡 **Innovation**: Custom-trained model for medical dialogue understanding  
 - 🌱 **Open-source contribution**: Share training pipelines for medical AI enthusiasts  
+![WechatIMG57](https://github.com/user-attachments/assets/3d4cbac5-c5fb-4479-ad3b-a69fbc97465f)
 
 ## Tech Stack  
 - Core Model: MiniMind2 (fine-tuned on medical corpora)  
 - Features: Symptom checker, medicine database, explainable AI responses  
 - Deployment: Flask API + React frontend  
+![WechatIMG56](https://github.com/user-attachments/assets/dba43513-ef8c-4283-9b39-886cbf974a4e)
 
 > *"The journey of a thousand miles begins with one step — this is mine."*
 >
