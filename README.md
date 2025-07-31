@@ -1,5 +1,6 @@
 # HuiYi-HealthAI
 My First Step into  AI🤪
+Minimind LORA Traning.
 
 ## What is MediMinder?  
 A medical Q&A assistant trained on the **MiniMind2 model**, designed to:  
