@@ -20,7 +20,7 @@ A medical Q&A assistant trained on the **MiniMind2 model**, designed to:
 
 > *"The journey of a thousand miles begins with one step — this is mine."*
 >
-> For Chinese：
+># For Chinese：
 > ## 项目亮点  
 - 基于 **MiniMind2** 模型微调，专注医疗领域对话理解  
 - 支持症状分析、用药提醒、医学术语解释  
